@@ -1,8 +1,8 @@
 
-# Readme Generator
+# Readme-Generator
 ## Repository
 ___
-https://github.com/Bwogi/Readme Generator
+https://github.com/Bwogi/Readme-Generator
 ## Description
 ---
 This Application helps a Developer generate a README.md file for any project they submit to GitHub by answering a few questions.
@@ -16,7 +16,10 @@ This Application helps a Developer generate a README.md file for any project the
 * [Tests](#tests)
 ---
 ## Installation
-These are some Project dependencies that need to be installed: Clone this Project, then do ain npm install
+___
+
+These are some Project dependencies that need to be installed: 
+Clone this Project, then do an npm install
 ---
 ## Badges
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
@@ -32,7 +35,7 @@ ___
 Contributors: 2
 ## Tests
 ___
-The following is needed to run the test:
+The following is needed to run the test: 
 ## Questions
 ___
 For any enquiries about this repo, open an issue or shoot me an email at: andrew.bwogi@gmail.com.
