@@ -1,0 +1,23 @@
+{
+  "name": "Readme-Generator",
+  "version": "1.0.0",
+  "description": "Generates a markdown file for any Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bwogi/Readme-Generator.git"
+  },
+  "keywords": [],
+  "author": "Andrew Bwogi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bwogi/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/Bwogi/Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
