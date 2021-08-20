@@ -67,5 +67,4 @@ Contributors: 2
 ## Questions
 For any enquiries about this repo, open an [issue](https://github.com/Bwogi/Readme-generator/issues) or shoot me an email at: andrew.bwogi@gmail.com.
 
-Created with ❤️ by [Andrew Bwogi](https://github.com/bwogi/README-generator)
 
