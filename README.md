@@ -21,17 +21,20 @@ It asks you questions for any type of application you have coded and want to sub
 
 
 ## Table of Contents 
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Process](#process)
-* [MockUp](#mockup)
-* [ProjectDemo](#projectdemo)
-* [Testing](#testing)
-* [ProjectRepo](#projectrepo)
-* [Contribution](#contribution)
-* [Questions](#questions)
+- [Readme-generator](#readme-generator)
+  - [Repository](#repository)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Process](#process)
+  - [Mockup](#mockup)
+  - [ProjectDemo](#projectdemo)
+  - [Testing](#testing)
+  - [ProjectRepo](#projectrepo)
+  - [Contribution](#contribution)
+  - [Questions](#questions)
 
 ## Installation
 npm install
@@ -62,7 +65,7 @@ https://github.com/Bwogi/Readme-generator
 Contributors: 2
 
 ## Questions
-For any enquiries about this repo, open an [issue](https://github.com/Bwogi/Readme-generator/issues)(https://img.shields.io/github/issues/Bwogi/Readme-generator) or shoot me an email at: andrew.bwogi@gmail.com.
+For any enquiries about this repo, open an [issue](https://github.com/Bwogi/Readme-generator/issues) or shoot me an email at: andrew.bwogi@gmail.com.
 
 Created with ❤️ by [Andrew Bwogi](https://github.com/bwogi/README-generator)
 
