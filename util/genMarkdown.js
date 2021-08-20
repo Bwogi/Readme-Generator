@@ -58,13 +58,13 @@ This project is licensed under the ${data.License} license.
 The following is needed to run the test: ${data.Tests}
 
 ## ProjectRepo
-https://github.com/bwogi/team-profile-generator
+https://github.com/${data.Username}/${data.Title}
 
 ## Contribution
 Contributors: ${data.Contributing}
 
 ## Questions
-For any enquiries about this repo, open an [issue](https://img.shields.io/github/issues/${data.Username}/${data.Title}) or shoot me an email at: ${data.Email}.
+For any enquiries about this repo, open an [issue](https://github.com/${data.Username}/${data.Title}/issues)(https://img.shields.io/github/issues/${data.Username}/${data.Title}) or shoot me an email at: ${data.Email}.
 
 Created with ❤️ by [Andrew Bwogi](https://github.com/bwogi/README-generator)
 

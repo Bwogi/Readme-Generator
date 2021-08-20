@@ -56,13 +56,13 @@ This project is licensed under the MIT license.
 The following is needed to run the test: 
 
 ## ProjectRepo
-https://github.com/bwogi/team-profile-generator
+https://github.com/Bwogi/Readme-generator
 
 ## Contribution
 Contributors: 2
 
 ## Questions
-For any enquiries about this repo, open an [issue](https://img.shields.io/github/issues/Bwogi/Readme-generator) or shoot me an email at: andrew.bwogi@gmail.com.
+For any enquiries about this repo, open an [issue](https://github.com/Bwogi/Readme-generator/issues)(https://img.shields.io/github/issues/Bwogi/Readme-generator) or shoot me an email at: andrew.bwogi@gmail.com.
 
 Created with ❤️ by [Andrew Bwogi](https://github.com/bwogi/README-generator)
 
